@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/https://github.com/dayanesantana/https://github.com/dayanesantana/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dayanesantana/dayanesantana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
