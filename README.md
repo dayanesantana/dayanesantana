@@ -2,7 +2,13 @@
 
 ###
 
-<p align="center">Desenvolvedora Full Stack em formação | Java, JavaScript, React, Node.js, TypeScript | Ex-Nutricionista em transição de carreira</p>
+<p align="center">Desenvolvedora Full Stack | Java & JavaScript | Transição de Carreira (Background em Saúde/Nutrição)</p>
+
+###
+
+<p align="center">Nutricionista por formação e Desenvolvedora Full Stack por paixão. Atualmente mergulhada em Java, Spring Boot e no ecossistema JavaScript através da Generation Brasil e do Santander Academy. Busco criar soluções que unam minha capacidade analítica à eficiência do código</p>
+
+###
 
 ###
 
