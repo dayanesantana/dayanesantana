@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Desenvolvedora Full Stack focada na criação de aplicações web modernas, escaláveis e de alta performance. Atualmente  imersa no ecossistema Java/Spring Boot e em tecnologias front-end como React e TypeScript através de projetos práticos e bootcamps intensivos corporativos. Busco criar soluções robustas, unindo minha capacidade analítica à eficiência, clean code e boas práticas de engenharia de software.</p>
+<p align="center">Desenvolvedora Full Stack focada na criação de aplicações web modernas, escaláveis e de alta performance. Atualmente Graduanda em Análise e Desenvovimento de Sistemas e imersa no ecossistema Java/Spring Boot e em tecnologias front-end como React e TypeScript através de projetos práticos e bootcamps intensivos corporativos. Busco criar soluções robustas, unindo minha capacidade analítica à eficiência, clean code e boas práticas de engenharia de software.</p>
 
 ###
 
